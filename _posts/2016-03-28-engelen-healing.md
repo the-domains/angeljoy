@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-28T13:50:14.403Z'
-dateModified: '2016-03-28T13:50:05.631Z'
+description: "Door vele redenen kunnen er blokkades, angsten, lichamelijke of mentale klachten in\_je lichaam zijn ontstaan. Dit kan bestaan uit steeds terugkerende problemen waar je tegen aan loopt in werk of privé situaties.\_De engelen willen je hierbij graag helpen om deze klachten op te lossen."
+datePublished: '2016-03-28T14:00:27.430Z'
+dateModified: '2016-03-28T13:50:20.632Z'
+title: Engelen Healing
+author: []
+sourcePath: _posts/2016-03-28-engelen-healing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Engelen Healing
-author: []
-sourcePath: _posts/2016-03-28-engelen-healing.md
-published: true
 url: engelen-healing/index.html
 _type: Article
 
