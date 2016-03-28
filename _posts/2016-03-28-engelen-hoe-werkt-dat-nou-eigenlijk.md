@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Veel van jullie vragen zich misschien wel af, ja maar hoe werkt dat nou eigenlijk engelen en geloof ik dat eigenlijk wel. Kan ik ook contact met ze maken en ze om hulp vragen?'
-datePublished: '2016-03-28T14:06:45.720Z'
-dateModified: '2016-03-28T14:06:34.662Z'
+datePublished: '2016-03-28T17:44:08.843Z'
+dateModified: '2016-03-28T14:14:56.674Z'
 title: 'Engelen, hoe werkt dat nou eigenlijk?'
 author: []
 sourcePath: _posts/2016-03-28-engelen-hoe-werkt-dat-nou-eigenlijk.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: engelen-hoe-werkt-dat-nou-eigenlijk/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Engelen, hoe werkt dat nou eigenlijk?
