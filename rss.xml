@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AngelJoy]]></title>
         <description><![CDATA[AngelJoy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/angeljoy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 13:07:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 13:07:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/angeljoy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blog]]></title>
+            <description><![CDATA[<article><h1>Blog</h1><p>Engelen, hoe werkt dat nou eigenlijk?</p></article>]]></description>
+            <link>https://thegrid.ai/angeljoy/blog/index.html</link>
+            <guid isPermaLink="false">db876729-1738-4087-95b0-b9548515f5fb</guid>
+            <pubDate>Mon, 28 Mar 2016 13:07:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Even voorstellen</p>]]></description>
-            <link>undefineda1e4412f-1fbf-4440-9220-3bca24a32e30/index.html</link>
+            <link>https://thegrid.ai/angeljoy/a1e4412f-1fbf-4440-9220-3bca24a32e30/index.html</link>
             <guid isPermaLink="false">a1e4412f-1fbf-4440-9220-3bca24a32e30</guid>
             <pubDate>Mon, 28 Mar 2016 13:07:11 GMT</pubDate>
         </item>
