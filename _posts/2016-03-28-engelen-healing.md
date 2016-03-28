@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Door vele redenen kunnen er blokkades, angsten, lichamelijke of mentale klachten in\_je lichaam zijn ontstaan. Dit kan bestaan uit steeds terugkerende problemen waar je tegen aan loopt in werk of privé situaties.\_De engelen willen je hierbij graag helpen om deze klachten op te lossen."
-datePublished: '2016-03-28T14:11:21.590Z'
-dateModified: '2016-03-28T14:09:49.739Z'
+datePublished: '2016-03-28T17:47:55.600Z'
+dateModified: '2016-03-28T14:11:29.373Z'
 title: Engelen Healing
 author: []
 sourcePath: _posts/2016-03-28-engelen-healing.md
