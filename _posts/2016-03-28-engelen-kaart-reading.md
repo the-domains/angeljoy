@@ -1,28 +1,28 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Engelen Kaart Reading
-datePublished: '2016-03-28T13:20:51.464Z'
-dateModified: '2016-03-28T13:00:47.758Z'
-title: Engelen kaart reading
-author: []
+description: ''
+datePublished: '2016-03-28T13:49:15.290Z'
+dateModified: '2016-03-28T13:48:52.382Z'
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+title: Engelen Kaart Reading
+author: []
 sourcePath: _posts/2016-03-28-engelen-kaart-reading.md
 published: true
 url: engelen-kaart-reading/index.html
 _type: Article
 
 ---
-Engelen Kaart Reading
+# Engelen Kaart Reading
 
 Wat is een Engelen kaart reading?
 
@@ -41,3 +41,5 @@ Het tarief voor een reading van 30 minuten is EUR 44,-.
 Het is ook mogelijk om een reading op afstand te doen, je krijgt dan een verslag per mail.
 
 Wil je een afspraak maken voor een consult ga dan naar de contact pagina.
+
+- See more at: http://angeljoy.nl/content/2014/03/Engelen-Reading\#sthash.xXt7ESdv.dpuf
