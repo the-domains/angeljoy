@@ -4,8 +4,15 @@
         <description><![CDATA[AngelJoy]]></description>
         <link>https://thegrid.ai/angeljoy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 13:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 13:08:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/angeljoy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tarieven]]></title>
+            <description><![CDATA[<h1>Tarieven</h1>]]></description>
+            <link>https://thegrid.ai/angeljoy/tarieven/index.html</link>
+            <guid isPermaLink="false">f6821a31-b80e-4c29-b6da-a642b6e35164</guid>
+            <pubDate>Mon, 28 Mar 2016 13:07:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blog]]></title>
             <description><![CDATA[<article><h1>Blog</h1><p>Engelen, hoe werkt dat nou eigenlijk?</p></article>]]></description>
