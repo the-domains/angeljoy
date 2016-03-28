@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-28T13:52:09.131Z'
-dateModified: '2016-03-28T13:52:08.685Z'
+description: 'Veel van jullie vragen zich misschien wel af, ja maar hoe werkt dat nou eigenlijk engelen en geloof ik dat eigenlijk wel. Kan ik ook contact met ze maken en ze om hulp vragen?'
+datePublished: '2016-03-28T14:06:45.720Z'
+dateModified: '2016-03-28T14:06:34.662Z'
 title: 'Engelen, hoe werkt dat nou eigenlijk?'
+author: []
+sourcePath: _posts/2016-03-28-engelen-hoe-werkt-dat-nou-eigenlijk.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-03-28-engelen-hoe-werkt-dat-nou-eigenlijk.md
-published: true
 url: engelen-hoe-werkt-dat-nou-eigenlijk/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Engelen, hoe werkt dat nou eigenlijk?
