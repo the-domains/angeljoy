@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-28T13:51:18.358Z'
-dateModified: '2016-03-28T13:50:58.417Z'
+description: 'AQUARIUS ANGELS® HEALING is een nieuwe vorm van healing die beschikbaar is sinds 21 december 2012. Het vervangt oudere technieken zoals de bekendste vorm van energetische heling, Reiki, die uitgaat van universele levensenergie.'
+datePublished: '2016-03-28T13:59:41.732Z'
+dateModified: '2016-03-28T13:51:23.698Z'
+title: AQUARIUS ANGELS® HEALING
+author: []
+sourcePath: _posts/2016-03-28-aquarius-angelsr-healing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: AQUARIUS ANGELS® HEALING
-author: []
-sourcePath: _posts/2016-03-28-aquarius-angelsr-healing.md
-published: true
 url: aquarius-angelsr-healing/index.html
 _type: Article
 
