@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-28T13:48:14.453Z'
-dateModified: '2016-03-28T13:47:53.404Z'
+description: Wil je contact maken met je beschermengelen? Dat kan via de Engelen Aura Reading.
+datePublished: '2016-03-28T14:00:46.107Z'
+dateModified: '2016-03-28T13:48:20.036Z'
+title: Engelen Aura Reading
+author: []
+sourcePath: _posts/2016-03-28-engelen-aura-reading.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Engelen Aura Reading
-author: []
-sourcePath: _posts/2016-03-28-engelen-aura-reading.md
-published: true
 url: engelen-aura-reading/index.html
 _type: Article
 
