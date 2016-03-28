@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-28T13:52:58.269Z'
-dateModified: '2016-03-28T13:52:57.805Z'
+description: "Zijn er terugkerende zaken waar je steeds maar weer tegen aanloopt of heb je altijd al eens een engelen healing of reading willen ervaren? De engelen willen graag samen met jou bekijken en bespreken hoe ze hieraan\_kunnen werken."
+datePublished: '2016-03-28T13:57:50.398Z'
+dateModified: '2016-03-28T13:57:26.229Z'
 title: Welkom bij AngelJoy
 authors: []
 publisher:
