@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'AQUARIUS ANGELS® HEALING is een nieuwe vorm van healing die beschikbaar is sinds 21 december 2012. Het vervangt oudere technieken zoals de bekendste vorm van energetische heling, Reiki, die uitgaat van universele levensenergie.'
-datePublished: '2016-03-28T14:15:40.016Z'
-dateModified: '2016-03-28T14:15:26.439Z'
+datePublished: '2016-03-28T17:46:05.493Z'
+dateModified: '2016-03-28T17:46:05.164Z'
 title: AQUARIUS ANGELS® HEALING
 author: []
 sourcePath: _posts/2016-03-28-aquarius-angelsr-healing.md
@@ -26,7 +26,7 @@ _type: Article
 
 AQUARIUS ANGELS(r) HEALING is een nieuwe vorm van healing die beschikbaar is sinds 21 december 2012\. Het vervangt oudere technieken zoals de bekendste vorm van energetische heling, Reiki, die uitgaat van universele levensenergie.
 
-In de Aquarius behandeling wordt er gewerkt met helende engelen waarbij het trillingsniveau van de klant wordt verhoogd naar Goddelijke perfectie. Hierdoor wordt er weer een verbinding gemaakt met de Bron en wordt de oorzaak van de klacht geheeld. In de sessie wordt een klacht aangepakt, dit kan zowel van fysieke als mentale aard zijn, denk hierbij bijvoorbeeld aan angsten en allergieen. 
+In de Aquarius behandeling wordt er gewerkt met helende engelen waarbij het trillingsniveau van de klant wordt verhoogd naar Goddelijke perfectie. Hierdoor wordt er weer een verbinding gemaakt met de Bron en wordt de oorzaak van de klacht geheeld. In de sessie wordt een klacht aangepakt, dit kan zowel van fysieke als mentale aard zijn, denk hierbij bijvoorbeeld aan angsten en allergieën. 
 
 Een sessie duurt 30 minuten en bestaat uit:
 
