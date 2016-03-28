@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'AQUARIUS ANGELS® HEALING is een nieuwe vorm van healing die beschikbaar is sinds 21 december 2012. Het vervangt oudere technieken zoals de bekendste vorm van energetische heling, Reiki, die uitgaat van universele levensenergie.'
-datePublished: '2016-03-28T14:07:45.339Z'
-dateModified: '2016-03-28T14:07:11.426Z'
+datePublished: '2016-03-28T14:15:40.016Z'
+dateModified: '2016-03-28T14:15:26.439Z'
 title: AQUARIUS ANGELS® HEALING
 author: []
 sourcePath: _posts/2016-03-28-aquarius-angelsr-healing.md
@@ -42,5 +42,3 @@ Lastral is een ingestraald flesje water dat de trillingsfrequentie van de sessie
 Het tarief voor een behandeling van 30 minuten is EUR 44,-.
 
 Wil je een afspraak maken voor een consult ga dan naar de contact pagina.
-
-- See more at: http://angeljoy.nl/content/2014/01/Aquarius\#sthash.PG9Jgh6f.dpuf
