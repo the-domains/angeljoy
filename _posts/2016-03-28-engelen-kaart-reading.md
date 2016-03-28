@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-28T13:49:15.290Z'
-dateModified: '2016-03-28T13:48:52.382Z'
+description: Wat is een Engelen kaart reading?
+datePublished: '2016-03-28T14:00:38.485Z'
+dateModified: '2016-03-28T13:49:20.429Z'
+title: Engelen Kaart Reading
+author: []
+sourcePath: _posts/2016-03-28-engelen-kaart-reading.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Engelen Kaart Reading
-author: []
-sourcePath: _posts/2016-03-28-engelen-kaart-reading.md
-published: true
 url: engelen-kaart-reading/index.html
 _type: Article
 
