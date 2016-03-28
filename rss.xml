@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[AngelJoy]]></title>
         <description><![CDATA[AngelJoy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.angeljoy.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 12:04:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 12:17:12 GMT</lastBuildDate>
+        <atom:link href="http://www.angeljoy.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welkom bij AngelJoy.</p>]]></description>
-            <link>undefined94686842-866c-4c59-bf5b-e14e6658b00f/index.html</link>
+            <link>http://www.angeljoy.nl/94686842-866c-4c59-bf5b-e14e6658b00f/index.html</link>
             <guid isPermaLink="false">94686842-866c-4c59-bf5b-e14e6658b00f</guid>
-            <pubDate>Mon, 28 Mar 2016 12:04:03 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2016 12:17:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
