@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Wat is een Engelen kaart reading?
-datePublished: '2016-03-28T14:00:38.485Z'
-dateModified: '2016-03-28T13:49:20.429Z'
+datePublished: '2016-03-28T14:08:29.507Z'
+dateModified: '2016-03-28T14:07:42.094Z'
 title: Engelen Kaart Reading
 author: []
 sourcePath: _posts/2016-03-28-engelen-kaart-reading.md
