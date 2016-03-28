@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-28T12:52:45.117Z'
-dateModified: '2016-03-28T12:52:41.961Z'
+datePublished: '2016-03-28T13:09:26.733Z'
+dateModified: '2016-03-28T12:53:55.164Z'
 title: Aquarius Angels Healing
 author: []
+sourcePath: _posts/2016-03-28-aquarius-angels-healing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-28-aquarius-angels-healing.md
-published: true
 url: aquarius-angels-healing/index.html
-_type: WebPage
+_type: Article
 
 ---
 AQUARIUS ANGELS(r) HEALING
