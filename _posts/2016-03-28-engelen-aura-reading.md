@@ -1,28 +1,28 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-28T13:19:57.780Z'
-dateModified: '2016-03-28T13:01:40.241Z'
-title: Engelen Aura Reading
-author: []
+datePublished: '2016-03-28T13:48:14.453Z'
+dateModified: '2016-03-28T13:47:53.404Z'
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+title: Engelen Aura Reading
+author: []
 sourcePath: _posts/2016-03-28-engelen-aura-reading.md
 published: true
 url: engelen-aura-reading/index.html
 _type: Article
 
 ---
-Engelen Aura Reading
+# Engelen Aura Reading
 
 Wil je contact maken met je beschermengelen? Dat kan via de Engelen Aura Reading.
 
@@ -31,3 +31,5 @@ Bij deze reading wordt contact gemaakt met je beschermengelen, je gidsen, de kra
 Aangezien deze reading onderdeel is van mijn certificering tot Gevorderd Praktiserend Engelen Expert(r) bied ik deze tijdelijk aan voor een prijs van EUR 25,- voor een sessie van 30 minuten (normale prijs EUR 44,-).
 
 Wil je een afspraak maken voor een consult ga dan naar de contact pagina.
+
+- See more at: http://angeljoy.nl/content/2015/06/Engelen-Aura-Reading\#sthash.OMjdpKLR.dpuf
