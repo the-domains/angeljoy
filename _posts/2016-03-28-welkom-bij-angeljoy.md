@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Zijn er terugkerende zaken waar je steeds maar weer tegen aanloopt of heb je altijd al eens een engelen healing of reading willen ervaren? De engelen willen graag samen met jou bekijken en bespreken hoe ze hieraan\_kunnen werken."
-datePublished: '2016-03-28T14:03:16.974Z'
-dateModified: '2016-03-28T14:03:08.033Z'
+datePublished: '2016-03-28T14:06:36.066Z'
+dateModified: '2016-03-28T14:06:16.935Z'
 title: Welkom bij AngelJoy
 author: []
 sourcePath: _posts/2016-03-28-welkom-bij-angeljoy.md
